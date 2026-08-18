@@ -1,2 +1,6 @@
 # FUNDAI-Laboratories-Lopez
-FUNDAI school laboratory Activities
+## Student Information
+- Name: ADRIAN F. LOPEZ
+- Course: BSCS-AI
+- Section: 2A
+- GitHub Username: Anarzel
